@@ -1,3 +1,3 @@
-dev call(name){
+def call(name){
   echo "Hello $(name). Welcome."
 }
